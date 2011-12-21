@@ -1,0 +1,349 @@
+TSquareMatcher
+v4
+r1
+cCheck dependencies
+cCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/Info.plist SquareMatcher/SquareMatcher-Info.plist
+cProcessPCH /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch.pth SquareMatcher/SquareMatcher-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/main.o /Users/vland/Projects/SquareMatcher/SquareMatcher/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/AppDelegate.o /Users/vland/Projects/SquareMatcher/SquareMatcher/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/MainView.o /Users/vland/Projects/SquareMatcher/SquareMatcher/MainView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/Draggable.o /Users/vland/Projects/SquareMatcher/SquareMatcher/Draggable.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher normal armv7
+cGenerateDSYMFile /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app.dSYM /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher
+cCopyStringsFile /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/en.lproj/InfoPlist.strings SquareMatcher/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/fox.png SquareMatcher/fox.png
+cProcessProductPackaging "/Users/vland/Library/MobileDevice/Provisioning Profiles/7821073F-6C23-4512-8C22-8F31FB8C956B.mobileprovision" /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/vland/Library/MobileDevice/Provisioning Profiles/7821073F-6C23-4512-8C22-8F31FB8C956B.mobileprovision" /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/embedded.mobileprovision
+cTouch /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher.xcent
+cCodeSign /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004E7840290000000000000110
+t1316503593
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist
+c000000004E5C595800000000000001A7
+t1314675032
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+c000000004E5C595800000000000001E5
+t1314675032
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F28700000000003AB0A0
+t1316156039
+s3846304
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F3440000000000529540
+t1316156228
+s5412160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7808C7000000000078BE50
+t1316489415
+s7913040
+
+N/Users/vland/Library/MobileDevice/Provisioning Profiles/7821073F-6C23-4512-8C22-8F31FB8C956B.mobileprovision
+c000000004EDE78A00000000000001CD5
+t1323202720
+s7381
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/AppDelegate.o
+t1324477910
+s51956
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/Draggable.o
+t1324478417
+s43804
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/MainView.o
+t1324478367
+s40660
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/SquareMatcher.LinkFileList
+c000000004EF1EDD500000000000002A4
+t1324477909
+s676
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/main.o
+t1324477910
+s2808
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher.xcent
+t1324477911
+s440
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch.pth
+t1324477910
+s3856248
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app
+t1324478694
+s340
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app.dSYM
+t1324478537
+s102
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/Info.plist
+t1324477909
+s1122
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/PkgInfo
+t1324477909
+s8
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/ResourceRules.plist
+t1324477909
+s485
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher
+t1324478694
+s30752
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/embedded.mobileprovision
+t1324477911
+s7381
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/en.lproj/InfoPlist.strings
+t1324477910
+s42
+
+N/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/fox.png
+t1324477911
+s21223
+
+N/Users/vland/Projects/SquareMatcher/SquareMatcher/AppDelegate.h
+c000000004EF18BAD000000000000016B
+t1324452781
+s363
+
+N/Users/vland/Projects/SquareMatcher/SquareMatcher/AppDelegate.m
+c000000004EF1EDCD00000000000009BD
+t1324477901
+s2493
+
+N/Users/vland/Projects/SquareMatcher/SquareMatcher/Draggable.h
+c000000004EF18F0700000000000000FA
+t1324453639
+s250
+
+N/Users/vland/Projects/SquareMatcher/SquareMatcher/Draggable.m
+c000000004EF1F2BF00000000000004C4
+t1324479167
+s1220
+
+N/Users/vland/Projects/SquareMatcher/SquareMatcher/MainView.h
+c000000004EF192C5000000000000011A
+t1324454597
+s282
+
+N/Users/vland/Projects/SquareMatcher/SquareMatcher/MainView.m
+c000000004EF1EE2E00000000000006A6
+t1324477998
+s1702
+
+N/Users/vland/Projects/SquareMatcher/SquareMatcher/SquareMatcher-Prefix.pch
+c000000004EF183DE0000000000000149
+t1324450782
+s329
+
+N/Users/vland/Projects/SquareMatcher/SquareMatcher/en.lproj/InfoPlist.strings
+c000000004EF183DE000000000000002D
+t1324450782
+s45
+
+N/Users/vland/Projects/SquareMatcher/SquareMatcher/fox.png
+c0000000047A81A9600000000000057C0
+t1202199190
+s22464
+
+N/Users/vland/Projects/SquareMatcher/SquareMatcher/main.m
+c000000004EF183DE0000000000000163
+t1324450782
+s355
+
+NSquareMatcher/SquareMatcher-Info.plist
+c000000004EF183DE00000000000004C0
+t1324450782
+s1216
+
+CBuild AST from /Users/vland/Projects/SquareMatcher/SquareMatcher/AppDelegate.m
+r0
+
+CBuild AST from /Users/vland/Projects/SquareMatcher/SquareMatcher/Draggable.m
+r0
+
+CBuild AST from /Users/vland/Projects/SquareMatcher/SquareMatcher/MainView.m
+r0
+
+CBuild AST from /Users/vland/Projects/SquareMatcher/SquareMatcher/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2a02443869a2b441^e1954c3869a2b441^---0#1#0#--18"Check dependencies36"BF9C4291-72D6-4020-85CC-3FADCCAB8E31-
+
+CCodeSign /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app
+s346188089.654591
+e346188090.205442
+r1
+xCodeSign
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CodeSign DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.appfab3a73969a2b441^8198343a69a2b441^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/0000000000000000^871"CodeSign DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app    cd /Users/vland/Projects/SquareMatcher    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign "iPhone Developer: Christian Wieland (VD895LPFZR)" --resource-rules=/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/ResourceRules.plist --entitlements /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher.xcent /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app36"92F90D5D-30DD-4849-B117-9220201B91F9-
+
+CCompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/AppDelegate.o /Users/vland/Projects/SquareMatcher/SquareMatcher/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346170710.353795
+e346170710.514005
+r1
+xCompileC
+xDerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/AppDelegate.o
+x/Users/vland/Projects/SquareMatcher/SquareMatcher/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/vland/Projects/SquareMatcher/SquareMatcher/AppDelegate.mbfba5a5625a2b441^9295835625a2b441^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/vland/Projects/SquareMatcher/SquareMatcher/AppDelegate.m0000000000000000^3000"CompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/AppDelegate.o SquareMatcher/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vland/Projects/SquareMatcher    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-generated-files.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-own-target-headers.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-all-target-headers.hmap -iquote /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-project-headers.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/include -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/DerivedSources/armv7 -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/DerivedSources -F/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos -include /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch -MMD -MT dependencies -MF /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/AppDelegate.d -c /Users/vland/Projects/SquareMatcher/SquareMatcher/AppDelegate.m -o /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/AppDelegate.o36"FB12A2A6-2839-4A7A-A524-37E332E5671F-
+
+CCompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/Draggable.o /Users/vland/Projects/SquareMatcher/SquareMatcher/Draggable.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346188088.340836
+e346188089.153649
+r1
+xCompileC
+xDerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/Draggable.o
+x/Users/vland/Projects/SquareMatcher/SquareMatcher/Draggable.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/vland/Projects/SquareMatcher/SquareMatcher/Draggable.m8389573869a2b441^6d54273969a2b441^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/vland/Projects/SquareMatcher/SquareMatcher/Draggable.m0000000000000000^2990"CompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/Draggable.o SquareMatcher/Draggable.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vland/Projects/SquareMatcher    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-generated-files.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-own-target-headers.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-all-target-headers.hmap -iquote /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-project-headers.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/include -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/DerivedSources/armv7 -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/DerivedSources -F/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos -include /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch -MMD -MT dependencies -MF /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/Draggable.d -c /Users/vland/Projects/SquareMatcher/SquareMatcher/Draggable.m -o /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/Draggable.o36"3AF17597-AF79-4744-AA4B-723D91005800-
+
+CCompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/MainView.o /Users/vland/Projects/SquareMatcher/SquareMatcher/MainView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346171167.386626
+e346171167.500054
+r1
+xCompileC
+xDerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/MainView.o
+x/Users/vland/Projects/SquareMatcher/SquareMatcher/MainView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/vland/Projects/SquareMatcher/SquareMatcher/MainView.m6c5c631f27a2b441^db13801f27a2b441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/vland/Projects/SquareMatcher/SquareMatcher/MainView.m0000000000000000^2985"CompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/MainView.o SquareMatcher/MainView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vland/Projects/SquareMatcher    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-generated-files.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-own-target-headers.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-all-target-headers.hmap -iquote /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-project-headers.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/include -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/DerivedSources/armv7 -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/DerivedSources -F/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos -include /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch -MMD -MT dependencies -MF /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/MainView.d -c /Users/vland/Projects/SquareMatcher/SquareMatcher/MainView.m -o /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/MainView.o36"A4C81CB8-0490-4157-BFFF-FDEF5C25B3F4-
+
+CCompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/main.o /Users/vland/Projects/SquareMatcher/SquareMatcher/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346170710.352838
+e346170710.483728
+r1
+xCompileC
+xDerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/main.o
+x/Users/vland/Projects/SquareMatcher/SquareMatcher/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/vland/Projects/SquareMatcher/SquareMatcher/main.ma27f5a5625a2b441^56d57b5625a2b441^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/vland/Projects/SquareMatcher/SquareMatcher/main.m0000000000000000^2965"CompileC DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/main.o SquareMatcher/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vland/Projects/SquareMatcher    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-generated-files.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-own-target-headers.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-all-target-headers.hmap -iquote /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-project-headers.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/include -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/DerivedSources/armv7 -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/DerivedSources -F/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos -include /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch -MMD -MT dependencies -MF /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/main.d -c /Users/vland/Projects/SquareMatcher/SquareMatcher/main.m -o /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/main.o36"871C0E46-B13C-45A7-871E-DAFC2D3D7293-
+
+CCopyPNGFile /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/fox.png SquareMatcher/fox.png
+s346170710.972097
+e346170711.080674
+r1
+xCopyPNGFile
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/fox.png
+xSquareMatcher/fox.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/fox.png SquareMatcher/fox.png04fef85625a2b441^a8a6145725a2b441^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/vland/Projects/SquareMatcher/SquareMatcher/fox.png0000000000000000^622"CopyPNGFile DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/fox.png SquareMatcher/fox.png    cd /Users/vland/Projects/SquareMatcher    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/vland/Projects/SquareMatcher/SquareMatcher/fox.png /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/fox.png36"DBC39B3B-B045-4AB4-B71A-31DACAE37455-
+
+CCopyStringsFile /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/en.lproj/InfoPlist.strings SquareMatcher/en.lproj/InfoPlist.strings
+s346170710.971887
+e346170710.976291
+r1
+xCopyStringsFile
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/en.lproj/InfoPlist.strings
+xSquareMatcher/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy SquareMatcher/en.lproj/InfoPlist.stringsb4e9f85625a2b441^d0edf95625a2b441^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/vland/Projects/SquareMatcher/SquareMatcher/en.lproj/InfoPlist.strings0000000000000000^578"CopyStringsFile DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/en.lproj/InfoPlist.strings SquareMatcher/en.lproj/InfoPlist.strings    cd /Users/vland/Projects/SquareMatcher    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/en.lproj -- SquareMatcher/en.lproj/InfoPlist.strings36"AB259F72-D20F-4874-833E-37DC7579F595-
+
+CCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/ResourceRules.plist
+s346170709.537149
+e346170709.544337
+r1
+xCpResource
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+xDerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/ResourceRules.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/ResourceRules.plistb6b9895525a2b441^5a688b5525a2b441^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/ResourceRules.plist00f4646edfffdf42^674"CpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/ResourceRules.plist    cd /Users/vland/Projects/SquareMatcher    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app36"CF635C95-1AA2-43F8-8C7F-6B7756A56F79-
+
+CGenerateDSYMFile /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app.dSYM /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher
+s346188089.511995
+e346188089.579545
+r1
+xGenerateDSYMFile
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app.dSYM
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generating /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app.dSYMc630833969a2b441^1e6d943969a2b441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app.dSYM/0000000000000000^625"GenerateDSYMFile DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app.dSYM DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher    cd /Users/vland/Projects/SquareMatcher    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher -o /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app.dSYM36"8863ED01-6B7D-4901-B86B-59EDFBECEC18-
+
+CLd /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher normal armv7
+s346188089.160737
+e346188089.504433
+r1
+xLd
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher
+xnormal
+xarmv7
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher8449293969a2b441^6c24813969a2b441^---0#0#0#--1095"Ld DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher normal armv7    cd /Users/vland/Projects/SquareMatcher    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -L/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos -F/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos -filelist /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/Objects-normal/armv7/SquareMatcher.LinkFileList -dead_strip -fobjc-arc -miphoneos-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/SquareMatcher36"83D848DE-1F45-41C8-A5F0-630561FEEDC5-
+
+CProcessInfoPlistFile /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/Info.plist SquareMatcher/SquareMatcher-Info.plist
+s346170709.538285
+e346170709.545510
+r1
+xProcessInfoPlistFile
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/Info.plist
+xSquareMatcher/SquareMatcher-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process SquareMatcher/SquareMatcher-Info.plist3be5895525a2b441^61a88b5525a2b441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/vland/Projects/SquareMatcher/SquareMatcher/SquareMatcher-Info.plist0000000000000000^838"ProcessInfoPlistFile DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/Info.plist SquareMatcher/SquareMatcher-Info.plist    cd /Users/vland/Projects/SquareMatcher    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SquareMatcher/SquareMatcher-Info.plist -genpkginfo /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/ResourceRules.plist -o /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/Info.plist36"B48353FA-346E-4E99-8949-B52B449B22A5-
+
+CProcessPCH /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch.pth SquareMatcher/SquareMatcher-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s346170709.554578
+e346170710.344808
+r1
+xProcessPCH
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch.pth
+xSquareMatcher/SquareMatcher-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile SquareMatcher/SquareMatcher-Prefix.pch912a8e5525a2b441^1345585625a2b441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/vland/Projects/SquareMatcher/SquareMatcher/SquareMatcher-Prefix.pch0000000000000000^2840"ProcessPCH DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch.pth SquareMatcher/SquareMatcher-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vland/Projects/SquareMatcher    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -gdwarf-2 -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-generated-files.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-own-target-headers.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-all-target-headers.hmap -iquote /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher-project-headers.hmap -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/include -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/DerivedSources/armv7 -I/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/DerivedSources -F/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos -c /Users/vland/Projects/SquareMatcher/SquareMatcher/SquareMatcher-Prefix.pch -o /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch.pth -MMD -MT dependencies -MF /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/PrecompiledHeaders/SquareMatcher-Prefix-dciqejrktegzgiatqeqqbsujaydf/SquareMatcher-Prefix.pch.d36"FEC280A5-3476-451D-B8B7-3869CCBFC5D4-
+
+CProcessPCH /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Index/PrecompiledHeaders/SquareMatcher-Prefix-ejgdgtkyictdugbuwghfdzijoibi_ast/SquareMatcher-Prefix.pch.pth SquareMatcher/SquareMatcher-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/vland/Library/MobileDevice/Provisioning Profiles/7821073F-6C23-4512-8C22-8F31FB8C956B.mobileprovision" /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/embedded.mobileprovision
+s346170711.102157
+e346170711.107054
+r1
+xProcessProductPackaging
+x/Users/vland/Library/MobileDevice/Provisioning Profiles/7821073F-6C23-4512-8C22-8F31FB8C956B.mobileprovision
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/embedded.mobileprovision
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection233"ProcessProductPackaging "/Users/vland/Library/MobileDevice/Provisioning Profiles/7821073F-6C23-4512-8C22-8F31FB8C956B.mobileprovision" DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/embedded.mobileprovision6b651a5725a2b441^be681b5725a2b441^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/embedded.mobileprovision0000000000000000^686"ProcessProductPackaging "/Users/vland/Library/MobileDevice/Provisioning Profiles/7821073F-6C23-4512-8C22-8F31FB8C956B.mobileprovision" DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/embedded.mobileprovision    cd /Users/vland/Projects/SquareMatcher    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/vland/Library/MobileDevice/Provisioning Profiles/7821073F-6C23-4512-8C22-8F31FB8C956B.mobileprovision" -o /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app/embedded.mobileprovision36"0948AA0A-0C68-4FEA-A68D-7D502D7714CC-
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher.xcent
+s346170711.135888
+e346170711.140347
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher.xcent
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection233"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher.xcent47e9225725a2b441^63ed235725a2b441^---0#0#0#-19%DVTDocumentLocation2@172"file://localhost/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher.xcent00f4646edfffdf42^712"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher.xcent    cd /Users/vland/Projects/SquareMatcher    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Intermediates/SquareMatcher.build/Debug-iphoneos/SquareMatcher.build/SquareMatcher.xcent36"214C7DFA-F353-46D6-89DD-C28213A4C494-
+
+CTouch /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app
+s346188089.615470
+e346188089.634831
+r1
+xTouch
+x/Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Touch /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app78b49d3969a2b441^ab98a23969a2b441^---0#0#0#--379"Touch DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app    cd /Users/vland/Projects/SquareMatcher    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/vland/Projects/SquareMatcher/DerivedData/SquareMatcher/Build/Products/Debug-iphoneos/SquareMatcher.app36"604F4C65-C036-4EF8-B7A9-76331384B796-
+
